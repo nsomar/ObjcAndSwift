@@ -10,9 +10,7 @@ import UIKit
 import AwesomeKitPrivate
 
 open class ASwiftClass: NSObject {
+  // The module modulemap file created and set to SWIFT_INCLUDE_PATHS
+  // Made the class available
   let x = InternalClass()
-}
-
-public class ABC: NSObject {
-  
 }

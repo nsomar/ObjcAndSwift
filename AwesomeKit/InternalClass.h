@@ -8,6 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
+// This is a project header defined in the dynamic framework
+// Our target is to access this file inside the swift code
 @interface InternalClass : NSObject
 
 @end
