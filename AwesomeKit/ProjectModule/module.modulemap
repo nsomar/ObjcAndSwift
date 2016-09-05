@@ -1,0 +1,4 @@
+module AwesomeKitPrivate {
+  header "../InternalClass.h"
+  export *
+}
